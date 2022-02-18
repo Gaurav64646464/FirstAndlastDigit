@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccb93cb2-5534-4ff8-aff6-ed548f1e942a" name="Changes" comment="Merge remote-tracking branch 'origin/origin/main' into origin/main">
-      <change afterPath="$PROJECT_DIR$/../Classes_Constructor_Inheritance/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classes_Constructor_Inheritance/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classes_Constructor_Inheritance/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classes_Constructor_Inheritance/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classes_Constructor_Inheritance/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classes_Constructor_Inheritance/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classes_Constructor_Inheritance/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classes_Constructor_Inheritance/Classes_Constructor_Inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Classes_Constructor_Inheritance/src/com/company/SumCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
