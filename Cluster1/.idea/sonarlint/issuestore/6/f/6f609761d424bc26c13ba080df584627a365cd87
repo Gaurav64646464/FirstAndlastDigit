@@ -1,0 +1,13 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(÷–“ò
+=
+java:S3329"'Use a dynamically-generated, random IV.(÷–“ò
+O
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(÷–“ò
+T
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(†½æÒýÿÿÿÿ
+O
+java:S4719/"9Replace charset name argument with StandardCharsets.UTF_8(÷–“ò
+T
+java:S47190"9Replace charset name argument with StandardCharsets.UTF_8(†½æÒýÿÿÿÿ

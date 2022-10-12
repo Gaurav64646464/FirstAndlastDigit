@@ -1,0 +1,149 @@
+
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„øæûÿÿÿÿ
+u
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(„øæûÿÿÿÿ
+d
+java:S1192F"ODefine a constant instead of duplicating this literal " milliseconds" 23 times.(µÉåI
+…
+java:S1192‹"nDefine a constant instead of duplicating this literal "referenceVersionRepository.getAllReferences: " 3 times.(ŸÉÅã
+`
+java:S1192È"IDefine a constant instead of duplicating this literal "Database" 4 times.(Ÿ¸ÑÊ
+{
+java:S1319ñ"eThe type of "array" should be an interface such as "List" rather than the implementation "ArrayList".(ñ†ìe
+L
+java:S2629F"7Use the built-in formatting to construct this argument.(µÉåI
+R
+java:S2629_"7Use the built-in formatting to construct this argument.(ÈëÑ³ûÿÿÿÿ
+L
+java:S2629y"7Use the built-in formatting to construct this argument.(µÉåI
+N
+java:S2629‹"7Use the built-in formatting to construct this argument.(ŸÉÅã
+S
+java:S2629“"7Use the built-in formatting to construct this argument.(§»šúüÿÿÿÿ
+S
+java:S2629"7Use the built-in formatting to construct this argument.(ó‰ìøÿÿÿÿ
+N
+java:S2629²"7Use the built-in formatting to construct this argument.(çŒÑ¼
+N
+java:S2629Â"7Use the built-in formatting to construct this argument.(’Œï”
+S
+java:S2629Í"7Use the built-in formatting to construct this argument.(á£ğåÿÿÿÿÿ
+N
+java:S2629"7Use the built-in formatting to construct this argument.(å³Šİ
+N
+java:S2629—"7Use the built-in formatting to construct this argument.(ŸÉÅã
+S
+java:S2629 "7Use the built-in formatting to construct this argument.(§»šúüÿÿÿÿ
+S
+java:S2629«"7Use the built-in formatting to construct this argument.(ó‰ìøÿÿÿÿ
+N
+java:S2629¿"7Use the built-in formatting to construct this argument.(çŒÑ¼
+N
+java:S2629Õ"7Use the built-in formatting to construct this argument.(’Œï”
+N
+java:S2629á"7Use the built-in formatting to construct this argument.(©†«
+S
+java:S2629ë"7Use the built-in formatting to construct this argument.(á£ğåÿÿÿÿÿ
+N
+java:S2629•"7Use the built-in formatting to construct this argument.(ŸÉÅã
+N
+java:S2629¥"7Use the built-in formatting to construct this argument.(Ğ­ãè
+N
+java:S2629©"7Use the built-in formatting to construct this argument.(§ñ­Í
+S
+java:S2629»"7Use the built-in formatting to construct this argument.(ãªœşÿÿÿÿ
+N
+java:S2629É"7Use the built-in formatting to construct this argument.(ŠÃÃ—
+N
+java:S2629ã"7Use the built-in formatting to construct this argument.(å³Šİ
+s
+java:S2629°"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(·¬Ñ
+x
+java:S2629µ"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ø§×ıÿÿÿÿ
+S
+java:S2629Ó"7Use the built-in formatting to construct this argument.(ÌŸéıÿÿÿÿ
+S
+java:S2629ì"7Use the built-in formatting to construct this argument.(§³Óªüÿÿÿÿ
+[
+java:S2259Ä"DA "NullPointerException" could be thrown; "dbData" is nullable here.(Ÿ¸ÑÊ
+S
+java:S2589"7Remove this expression which always evaluates to "true"(­è»±ûÿÿÿÿ
+f	java:S116."QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+`
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(Ó˜ÙØıÿÿÿÿ
+[
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(Ø‰Ş
+`
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(¸íãúøÿÿÿÿ
+V
+java:S3457F"AFormat specifiers should be used instead of string concatenation.(µÉåI
+\
+java:S3457_"AFormat specifiers should be used instead of string concatenation.(ÈëÑ³ûÿÿÿÿ
+V
+java:S3457y"AFormat specifiers should be used instead of string concatenation.(µÉåI
+X
+java:S3457‹"AFormat specifiers should be used instead of string concatenation.(ŸÉÅã
+]
+java:S3457“"AFormat specifiers should be used instead of string concatenation.(§»šúüÿÿÿÿ
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ó‰ìøÿÿÿÿ
+X
+java:S3457²"AFormat specifiers should be used instead of string concatenation.(çŒÑ¼
+X
+java:S3457Â"AFormat specifiers should be used instead of string concatenation.(’Œï”
+]
+java:S3457Í"AFormat specifiers should be used instead of string concatenation.(á£ğåÿÿÿÿÿ
+X
+java:S3457"AFormat specifiers should be used instead of string concatenation.(å³Šİ
+X
+java:S3457—"AFormat specifiers should be used instead of string concatenation.(ŸÉÅã
+]
+java:S3457 "AFormat specifiers should be used instead of string concatenation.(§»šúüÿÿÿÿ
+]
+java:S3457«"AFormat specifiers should be used instead of string concatenation.(ó‰ìøÿÿÿÿ
+X
+java:S3457¿"AFormat specifiers should be used instead of string concatenation.(çŒÑ¼
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(ú¥³×ıÿÿÿÿ
+X
+java:S3457Õ"AFormat specifiers should be used instead of string concatenation.(’Œï”
+X
+java:S3457á"AFormat specifiers should be used instead of string concatenation.(©†«
+]
+java:S3457ë"AFormat specifiers should be used instead of string concatenation.(á£ğåÿÿÿÿÿ
+X
+java:S3457•"AFormat specifiers should be used instead of string concatenation.(ŸÉÅã
+X
+java:S3457¥"AFormat specifiers should be used instead of string concatenation.(Ğ­ãè
+X
+java:S3457©"AFormat specifiers should be used instead of string concatenation.(§ñ­Í
+[
+java:S1854Á"DRemove this useless assignment to local variable "referenceVersion".(¬úªú
+]
+java:S3457»"AFormat specifiers should be used instead of string concatenation.(ãªœşÿÿÿÿ
+L
+java:S1481Á"5Remove this unused "referenceVersion" local variable.(¬úªú
+X
+java:S3457É"AFormat specifiers should be used instead of string concatenation.(ŠÃÃ—
+X
+java:S3457ã"AFormat specifiers should be used instead of string concatenation.(å³Šİ
+`
+java:S1854“"IRemove this useless assignment to local variable "parentReferenceObject".(ÃîŸ§
+]
+java:S3457¦"AFormat specifiers should be used instead of string concatenation.(–öÎáûÿÿÿÿ
+]
+java:S3457¨"AFormat specifiers should be used instead of string concatenation.(Œ©óŒúÿÿÿÿ
+]
+java:S3457ª"AFormat specifiers should be used instead of string concatenation.(ıÛ¬İûÿÿÿÿ
+X
+java:S3457°"AFormat specifiers should be used instead of string concatenation.(·¬Ñ
+]
+java:S3457µ"AFormat specifiers should be used instead of string concatenation.(Ø§×ıÿÿÿÿ
+Z
+java:S1612Æ">Replace this lambda with method reference 'this::expireCache'.(ßâ£şÿÿÿÿ
+]
+java:S3457Ó"AFormat specifiers should be used instead of string concatenation.(ÌŸéıÿÿÿÿ
+]
+java:S3457ì"AFormat specifiers should be used instead of string concatenation.(§³Óªüÿÿÿÿ
+S
+java:S1144ˆ"<Remove this unused private "getRefDataWithChildren1" method.(µºšá

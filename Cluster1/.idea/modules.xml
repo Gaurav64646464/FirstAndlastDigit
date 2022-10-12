@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cluster1.iml" filepath="$PROJECT_DIR$/Cluster1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JarvisProject/app/code-coverage/code-coverage.iml" filepath="$PROJECT_DIR$/JarvisProject/app/code-coverage/code-coverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jarvis-commons/jarvis-commons.iml" filepath="$PROJECT_DIR$/jarvis-commons/jarvis-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JarvisProject/jarvis-ekyc.iml" filepath="$PROJECT_DIR$/JarvisProject/jarvis-ekyc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JarvisProject/app/biz/jarvis-ekyc-biz.iml" filepath="$PROJECT_DIR$/JarvisProject/app/biz/jarvis-ekyc-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JarvisProject/app/core/jarvis-ekyc-core.iml" filepath="$PROJECT_DIR$/JarvisProject/app/core/jarvis-ekyc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jarvis-generic-api/jarvis-generic-api.iml" filepath="$PROJECT_DIR$/jarvis-generic-api/jarvis-generic-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyntLogs/mynt-logs.iml" filepath="$PROJECT_DIR$/MyntLogs/mynt-logs.iml" />
+    </modules>
+  </component>
+</project>

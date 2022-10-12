@@ -1,0 +1,69 @@
+
+E
+java:S3740m"/Provide the parametrized type for this generic.(Œùğæ
+F
+java:S3740¬"/Provide the parametrized type for this generic.(Œùğæ
+F
+java:S3740ï"/Provide the parametrized type for this generic.(Œùğæ
+c
+java:S1192_"HDefine a constant instead of duplicating this literal "request" 3 times.(çæßùÿÿÿÿ
+e
+java:S1192`"JDefine a constant instead of duplicating this literal "signature" 3 times.(ıÉòÿÿÿÿÿ
+^
+java:S1192Q"HDefine a constant instead of duplicating this literal "reqTime" 3 times.(½´Ê¦
+d
+java:S1192V"IDefine a constant instead of duplicating this literal "userCode" 3 times.(›ïñëşÿÿÿÿ
+g
+java:S1192E"LDefine a constant instead of duplicating this literal "Asia/Manila" 3 times.(¾€òÿÿÿÿÿ
+t
+java:S1192D"YDefine a constant instead of duplicating this literal "yyyy-MM-dd'T'HH:mm:ssXXX" 3 times.(×ìÁòÿÿÿÿÿ
+d
+java:S1192N"IDefine a constant instead of duplicating this literal "function" 3 times.(‹»×ıÿÿÿÿ
+^
+java:S1192S"HDefine a constant instead of duplicating this literal "reserve" 3 times.(Œ¶“ë
+h
+java:S1192P"MDefine a constant instead of duplicating this literal "clientSecret" 3 times.(Ğñìşÿÿÿÿ
+d
+java:S1192R"IDefine a constant instead of duplicating this literal "reqMsgId" 3 times.(ûçíìøÿÿÿÿ
+h
+java:S1192="MDefine a constant instead of duplicating this literal "Content-Type" 3 times.(Å×Ÿøÿÿÿÿ
+d
+java:S1192O"IDefine a constant instead of duplicating this literal "clientId" 3 times.(ûç­Ğıÿÿÿÿ
+l
+java:S1192="QDefine a constant instead of duplicating this literal "application/json" 3 times.(Å×Ÿøÿÿÿÿ
+^
+java:S1192M"HDefine a constant instead of duplicating this literal "version" 3 times.(º›Õ
+_
+java:S1192W"JDefine a constant instead of duplicating this literal "MOBILE_NO" 3 times.(§ÙîW
+^
+java:S1192W"IDefine a constant instead of duplicating this literal "userType" 3 times.(§ÙîW
+y
+java:S1192v"cDefine a constant instead of duplicating this literal "Catch HttpClientErrorException on " 3 times.(„ö—¿
+b
+java:S1192i"LDefine a constant instead of duplicating this literal "Successful " 3 times.(É‡ö
+f	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+f	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·á½ú
+g	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+g	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·á½ú
+g	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+g	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·á½ú
+M
+java:S2629p"7Use the built-in formatting to construct this argument.(Î´İü
+N
+java:S2629¯"7Use the built-in formatting to construct this argument.(Î´İü
+N
+java:S2629ò"7Use the built-in formatting to construct this argument.(Î´İü
+W
+java:S3457p"AFormat specifiers should be used instead of string concatenation.(Î´İü
+W
+java:S3457v"AFormat specifiers should be used instead of string concatenation.(„ö—¿
+X
+java:S3457¯"AFormat specifiers should be used instead of string concatenation.(Î´İü
+X
+java:S3457µ"AFormat specifiers should be used instead of string concatenation.(„ö—¿
+X
+java:S3457ò"AFormat specifiers should be used instead of string concatenation.(Î´İü
+X
+java:S3457ø"AFormat specifiers should be used instead of string concatenation.(„ö—¿
+r
+java:S1128"WRemove this unused import 'com.jarvis.jarvisapispringboot.common.entity.ProfileEntity'.(í«¼øÿÿÿÿ

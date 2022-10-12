@@ -1,0 +1,38 @@
+
+e
+java:S1192<"JDefine a constant instead of duplicating this literal "127.0.0.1" 8 times.(•–šıÿÿÿÿ
+[
+java:S2133."@Remove this object instantiation and use "Object.class" instead.(Œˆæ“şÿÿÿÿ
+[
+java:S21336"@Remove this object instantiation and use "Object.class" instead.(ò¯ÏÎıÿÿÿÿ
+[
+java:S2133;"@Remove this object instantiation and use "Object.class" instead.(úáÛ˜øÿÿÿÿ
+[
+java:S2133C"@Remove this object instantiation and use "Object.class" instead.(úáÛ˜øÿÿÿÿ
+[
+java:S2133H"@Remove this object instantiation and use "Object.class" instead.(ò¯ÏÎıÿÿÿÿ
+[
+java:S2133\"@Remove this object instantiation and use "Object.class" instead.(úáÛ˜øÿÿÿÿ
+[
+java:S2133a"@Remove this object instantiation and use "Object.class" instead.(úáÛ˜øÿÿÿÿ
+[
+java:S2133f"@Remove this object instantiation and use "Object.class" instead.(¸úÀ°üÿÿÿÿ
+[
+java:S2133p"@Remove this object instantiation and use "Object.class" instead.(úáÛ˜øÿÿÿÿ
+[
+java:S2133u"@Remove this object instantiation and use "Object.class" instead.(úáÛ˜øÿÿÿÿ
+V
+java:S2133z"@Remove this object instantiation and use "Object.class" instead.(Ú‘—±
+\
+java:S2133…"@Remove this object instantiation and use "Object.class" instead.(úáÛ˜øÿÿÿÿ
+\
+java:S2133Š"@Remove this object instantiation and use "Object.class" instead.(úáÛ˜øÿÿÿÿ
+W
+java:S2133"@Remove this object instantiation and use "Object.class" instead.(Åû¼º
+P
+java:S4719³"9Replace charset name argument with StandardCharsets.UTF_8(Ó˜œÌ
+q
+java:S1128"VRemove this unused import 'com.jarvis.jarvisapispringboot.common.constants.Constants'.(Š½¢Îûÿÿÿÿ
+’
+java:S1128
+"|Remove this unused import 'com.jarvis.jarvisapispringboot.common.umarket_soap.xmlentity.utiba.delirium.ws.typedquery.Agent'.(‚øÄ

@@ -1,0 +1,13 @@
+
+E
+java:S3740%"/Provide the parametrized type for this generic.(´äá€
+I
+java:S14813".Remove this unused "topicName" local variable.(Ş Ùûÿÿÿÿ
+e
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›
+X
+java:S1128"BRemove this unused import 'org.springframework.messaging.Message'.(–¬•ï
+c
+java:S1128"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Îö¼Şûÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ

@@ -1,0 +1,22 @@
+
+E
+java:S3740s"/Provide the parametrized type for this generic.(Ÿ³ÁÂ
+~
+java:S1488A"iImmediately return this expression instead of assigning it to the temporary variable "getUserEntityById".(éîñ
+S
+java:S2629"7Use the built-in formatting to construct this argument.(ëË·ıÿÿÿÿ
+N
+java:S2629¯"7Use the built-in formatting to construct this argument.(Òµ™»
+N
+java:S2629Å"7Use the built-in formatting to construct this argument.(Ûš¿‚
+k	java:S116;"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¢ßùÿÿÿÿ
+<
+java:S1170&"!Make this final field static too.(©æ¿ãùÿÿÿÿ
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ëË·ıÿÿÿÿ
+T
+java:S1155¤">Use isEmpty() to check whether the collection is empty or not.(ÇŒÔ
+X
+java:S3457¯"AFormat specifiers should be used instead of string concatenation.(Òµ™»
+X
+java:S3457Å"AFormat specifiers should be used instead of string concatenation.(Ûš¿‚

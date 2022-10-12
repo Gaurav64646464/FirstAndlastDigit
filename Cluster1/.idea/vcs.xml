@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JarvisPortal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JarvisProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyntLogs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docker-test-openldap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jarvis-async-process" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jarvis-commons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jarvis-generic-api" vcs="Git" />
+  </component>
+</project>

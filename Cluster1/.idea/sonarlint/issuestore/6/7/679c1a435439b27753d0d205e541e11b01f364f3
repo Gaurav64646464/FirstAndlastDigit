@@ -1,0 +1,53 @@
+
+T
+java:S1068"7Remove this unused "verificationOrderId" private field.(ä³8‡¹ë˜Ÿ0
+M
+java:S1068"+Remove this unused "zolozId" private field.(¡¾ã¤úÿÿÿÿ8‡¹ë˜Ÿ0
+F
+java:S1068"*Remove this unused "userId" private field.(íÃË8ˆ¹ë˜Ÿ0
+N
+java:S1068",Remove this unused "merchant" private field.(Š‹•çúÿÿÿÿ8ˆ¹ë˜Ÿ0
+L
+java:S1068"0Remove this unused "resultStatus" private field.(Ãån8ˆ¹ë˜Ÿ0
+J
+java:S1068"-Remove this unused "ocrCertNo" private field.(âÐÚ8‰¹ë˜Ÿ0
+R
+java:S1068"0Remove this unused "ocrFirstName" private field.(ÝÝ³Ýúÿÿÿÿ8‰¹ë˜Ÿ0
+N
+java:S1068"1Remove this unused "ocrMiddleName" private field.(ÌÃŒü8‰¹ë˜Ÿ0
+L
+java:S1068"/Remove this unused "ocrLastName" private field.(€Í¹«8‰¹ë˜Ÿ0
+T
+java:S1068"2Remove this unused "ocrDateOfBirth" private field.(ÞÎó€ùÿÿÿÿ8‰¹ë˜Ÿ0
+U
+java:S1068"8Remove this unused "ocrPermAddressStreet" private field.(’£Ð¢8‰¹ë˜Ÿ0
+X
+java:S1068"6Remove this unused "ocrPermAddressTown" private field.(ºŠÒ˜ýÿÿÿÿ8‰¹ë˜Ÿ0
+`
+java:S1068">Remove this unused "ocrPermAddressCityProvince" private field.(ŸÒ˜þþÿÿÿÿ8‰¹ë˜Ÿ0
+V
+java:S1068"9Remove this unused "ocrPermAddressCountry" private field.(þó•Ú8Š¹ë˜Ÿ0
+W
+java:S1068"5Remove this unused "ocrPermAddressZip" private field.(Ð²ƒÃýÿÿÿÿ8Š¹ë˜Ÿ0
+N
+java:S1068"1Remove this unused "ekycResultDoc" private field.(ªò­å8Š¹ë˜Ÿ0
+O
+java:S1068"2Remove this unused "ekycResultFace" private field.(ŸãÃø8Š¹ë˜Ÿ0
+P
+java:S1068 "3Remove this unused "ekycResultInput" private field.(Å—ú«8Š¹ë˜Ÿ0
+O
+java:S1068!"2Remove this unused "ekycResultRisk" private field.(¾ÍžÔ8Š¹ë˜Ÿ0
+U
+java:S1068""8Remove this unused "ekycIdNetworkDetails" private field.(Áí†â8Š¹ë˜Ÿ0
+J
+java:S1068#".Remove this unused "riskResult" private field.(ÚÆÀ&8Š¹ë˜Ÿ0
+L
+java:S1068$"*Remove this unused "ekycId" private field.(ã·Ç¯ýÿÿÿÿ8Š¹ë˜Ÿ0
+N
+java:S1068%",Remove this unused "scenario" private field.(£à²™øÿÿÿÿ8‹¹ë˜Ÿ0
+M
+java:S1068&"+Remove this unused "isMinor" private field.(—’ìžøÿÿÿÿ8‹¹ë˜Ÿ0
+K
+java:S1068'")Remove this unused "isEDD" private field.(ø¿Õ²þÿÿÿÿ8‹¹ë˜Ÿ0
+L
+java:S1068("*Remove this unused "isKyc9" private field.(Ùäèüÿÿÿÿÿ8‹¹ë˜Ÿ0

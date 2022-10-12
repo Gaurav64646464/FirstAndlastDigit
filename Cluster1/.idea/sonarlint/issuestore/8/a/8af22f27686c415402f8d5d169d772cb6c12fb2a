@@ -1,0 +1,24 @@
+
+i
+java:S1192:"NDefine a constant instead of duplicating this literal " milliseconds" 5 times.(›¼ŽÛýÿÿÿÿ
+R
+java:S2629:"7Use the built-in formatting to construct this argument.(›¼ŽÛýÿÿÿÿ
+R
+java:S2629E"7Use the built-in formatting to construct this argument.(›¼ŽÛýÿÿÿÿ
+M
+java:S2629T"7Use the built-in formatting to construct this argument.(÷’¡ï
+S
+java:S2629ˆ"7Use the built-in formatting to construct this argument.(ÑÔÊ†ýÿÿÿÿ
+S
+java:S2629–"7Use the built-in formatting to construct this argument.(ÑÔÊ†ýÿÿÿÿ
+f	java:S116+"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+\
+java:S3457:"AFormat specifiers should be used instead of string concatenation.(›¼ŽÛýÿÿÿÿ
+\
+java:S3457E"AFormat specifiers should be used instead of string concatenation.(›¼ŽÛýÿÿÿÿ
+W
+java:S3457T"AFormat specifiers should be used instead of string concatenation.(÷’¡ï
+]
+java:S3457ˆ"AFormat specifiers should be used instead of string concatenation.(ÑÔÊ†ýÿÿÿÿ
+]
+java:S3457–"AFormat specifiers should be used instead of string concatenation.(ÑÔÊ†ýÿÿÿÿ

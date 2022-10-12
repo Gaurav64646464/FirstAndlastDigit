@@ -1,0 +1,12 @@
+
+i
+java:S11923"NDefine a constant instead of duplicating this literal "transactionId" 4 times.(à«ˆ¦úÿÿÿÿ
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”¶˜
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·á½ú
+T
+java:S18541"9Remove this useless assignment to local variable "token".(¯û†–ÿÿÿÿÿ
+c
+java:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ìåßÑøÿÿÿÿ
+E
+java:S14811"*Remove this unused "token" local variable.(¯û†–ÿÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(‡…úÿÿÿÿ

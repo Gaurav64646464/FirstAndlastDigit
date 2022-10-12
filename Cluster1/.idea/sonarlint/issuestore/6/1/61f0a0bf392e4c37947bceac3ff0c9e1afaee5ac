@@ -1,0 +1,18 @@
+
+h
+java:S1192ñ"LDefine a constant instead of duplicating this literal "objectClass" 3 times.(Ì•‹¿ûÿÿÿÿ
+g	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+k
+java:S1854¶"ORemove this useless assignment to local variable "newUserGroupLdapModulesList".(®òÎÕýÿÿÿÿ
+\
+java:S1481¶"@Remove this unused "newUserGroupLdapModulesList" local variable.(®òÎÕýÿÿÿÿ
+`
+java:S1854Ò"DRemove this useless assignment to local variable "userGroupsEntity".(˜ï”îþÿÿÿÿ
+Q
+java:S1481Ò"5Remove this unused "userGroupsEntity" local variable.(˜ï”îþÿÿÿÿ
+]
+java:S3457©"AFormat specifiers should be used instead of string concatenation.(¯úÒŠüÿÿÿÿ
+T
+java:S1155ª">Use isEmpty() to check whether the collection is empty or not.(­ïšy
+X
+java:S3457­"AFormat specifiers should be used instead of string concatenation.(„ûÑÞ

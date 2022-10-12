@@ -1,0 +1,17 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+r
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ž‡Žî
+w
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ò”ª­ûÿÿÿÿ
+E
+java:S5411&"*Use the primitive boolean expression here.(¤Ÿ¸Ùøÿÿÿÿ
+E
+java:S5411)"*Use the primitive boolean expression here.(²†…“ýÿÿÿÿ
+E
+java:S5411,"*Use the primitive boolean expression here.(›Žõ¸üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÏôãÅúÿÿÿÿ
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ž‡Žî
+\
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ò”ª­ûÿÿÿÿ

@@ -1,0 +1,198 @@
+
+E
+java:S3740W"/Provide the parametrized type for this generic.(§¡½¶
+E
+java:S3740Y"/Provide the parametrized type for this generic.(Ğ¶éà
+E
+java:S3740Z"/Provide the parametrized type for this generic.(¬ë¨ã
+p
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Úœ
+g
+java:S1192"KDefine a constant instead of duplicating this literal "resultInfo" 4 times.(€“¶öıÿÿÿÿ
+g
+java:S1192Î"KDefine a constant instead of duplicating this literal "first_name" 3 times.(³€ö©ıÿÿÿÿ
+]
+java:S1192¿"GDefine a constant instead of duplicating this literal "log_id" 8 times.(ÚÜÖ"
+n
+java:S1192Ç"WDefine a constant instead of duplicating this literal "fromWalletStatusEntity" 3 times.(Ş«
+a
+java:S1192Ğ"JDefine a constant instead of duplicating this literal "last_name" 3 times.(ôÜ™
+c
+java:S1192Ï"LDefine a constant instead of duplicating this literal "middle_name" 3 times.(í±İİ
+h
+java:S1192Ì"QDefine a constant instead of duplicating this literal "response_message" 9 times.(öÖøÁ
+d
+java:S1192‚"HDefine a constant instead of duplicating this literal "success" 4 times.(ó–ëÍşÿÿÿÿ
+`
+java:S1192ÿ"IDefine a constant instead of duplicating this literal "response" 4 times.(¸îî¨
+k
+java:S1192Æ"ODefine a constant instead of duplicating this literal "trackingEntity" 3 times.(¼ä©¨üÿÿÿÿ
+R	java:S107î"<Method has 8 parameters, which is greater than 7 authorized.(¼Ë­Ï
+f	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+g	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+g	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+g	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+l	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚éÏíÿÿÿÿÿ
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+l	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚éÏíÿÿÿÿÿ
+g	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+b
+java:S1301É"KReplace this "switch" statement by "if" statements to increase readability.(¡ĞïÆ
+‡
+java:S1488¼"pImmediately return this expression instead of assigning it to the temporary variable "checkIfWalletEntityExist".(ã“áÉ
+r
+java:S2629h"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(·×·³
+;
+java:S2629Á"$Invoke method(s) only conditionally.(°›šÎ
+@
+java:S2629Æ"$Invoke method(s) only conditionally.(Õ©¡†øÿÿÿÿ
+;
+java:S2629ó"$Invoke method(s) only conditionally.(°›šÎ
+@
+java:S2629ø"$Invoke method(s) only conditionally.(Õ©¡†øÿÿÿÿ
+:
+java:S2629ˆ"$Invoke method(s) only conditionally.(³û–C
+;
+java:S2629"$Invoke method(s) only conditionally.(¨ı…´
+@
+java:S2629•"$Invoke method(s) only conditionally.(½¯Û şÿÿÿÿ
+@
+java:S2629š"$Invoke method(s) only conditionally.(Ä”ğûÿÿÿÿ
+F
+java:S5411ß"*Use the primitive boolean expression here.(Îæ³şÿÿÿÿ
+A
+java:S5411ô"*Use the primitive boolean expression here.(£ú°Ì
+F
+java:S5411û"*Use the primitive boolean expression here.(Îæ³şÿÿÿÿ
+A
+java:S5411„"*Use the primitive boolean expression here.(ëÚÔ—
+A
+java:S5411º"*Use the primitive boolean expression here.(éñº‡
+A
+java:S5411É"*Use the primitive boolean expression here.(éñº‡
+A
+java:S5411æ"*Use the primitive boolean expression here.(éñº‡
+A
+java:S5411Š"*Use the primitive boolean expression here.(ıŒŸè
+F
+java:S5411·"*Use the primitive boolean expression here.(Îæ³şÿÿÿÿ
+F
+java:S5411‰"*Use the primitive boolean expression here.(Îæ³şÿÿÿÿ
+R
+java:S4973{"<Strings and Boxed types should be compared using "equals()".(µÏ¾½
+S
+java:S4973"<Strings and Boxed types should be compared using "equals()".(µÏ¾½
+[
+java:S1226°"DIntroduce a new variable instead of reusing the parameter "message".(îÇßê
+`
+java:S1226º"DIntroduce a new variable instead of reusing the parameter "message".(ˆÉˆõùÿÿÿÿ
+`
+java:S1226š"DIntroduce a new variable instead of reusing the parameter "message".(ÑÔÎâşÿÿÿÿ
+Z
+java:S1226"DIntroduce a new variable instead of reusing the parameter "message".(Æì~
+Z
+java:S1226Æ"DIntroduce a new variable instead of reusing the parameter "message".(Æì~
+T
+java:S1155_">Use isEmpty() to check whether the collection is empty or not.(…ô©ç
+W
+java:S3457h"AFormat specifiers should be used instead of string concatenation.(·×·³
+T
+java:S1155|">Use isEmpty() to check whether the collection is empty or not.(²ƒªí
+U
+java:S1155Ÿ">Use isEmpty() to check whether the collection is empty or not.(²ƒªí
+Q
+java:S1854Ã":Remove this useless assignment to local variable "LOGGER".(úÇíÄ
+B
+java:S1481Ã"+Remove this unused "LOGGER" local variable.(úÇíÄ
+Q
+java:S1854Ô":Remove this useless assignment to local variable "LOGGER".(úÇíÄ
+R
+java:S1854à";Remove this useless assignment to local variable "isAplus".(¶ú¼½
+B
+java:S1481Ô"+Remove this unused "LOGGER" local variable.(úÇíÄ
+B
+java:S1481Ş",Remove this unused "isAplus" local variable.(´ïıo
+C
+java:S1125ß"'Remove the unnecessary boolean literal.(Îæ³şÿÿÿÿ
+Q
+java:S1854ğ":Remove this useless assignment to local variable "LOGGER".(úÇíÄ
+B
+java:S1481ğ"+Remove this unused "LOGGER" local variable.(úÇíÄ
+>
+java:S1125ô"'Remove the unnecessary boolean literal.(£ú°Ì
+C
+java:S1125û"'Remove the unnecessary boolean literal.(Îæ³şÿÿÿÿ
+>
+java:S1125„"'Remove the unnecessary boolean literal.(ëÚÔ—
+]
+java:S1854×"FRemove this useless assignment to local variable "saveWalletResponse".(âÜÀ¦
+J
+java:S1172²"4Remove this unused method parameter "profileEntity".(¨¿Ñm
+>
+java:S1125º"'Remove the unnecessary boolean literal.(éñº‡
+_
+java:S1858»"C"getMsisdn" returns a string, there's no need to call "toString()".(¿Ó„Óıÿÿÿÿ
+N
+java:S1481×"7Remove this unused "saveWalletResponse" local variable.(âÜÀ¦
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(ƒÁÙÃıÿÿÿÿ
+]
+java:S1854›"FRemove this useless assignment to local variable "saveWalletResponse".(âÜÀ¦
+H
+java:S3599á",Use another way to initialize this instance.(¾ê«†úÿÿÿÿ
+u
+java:S1171â"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N
+java:S1481›"7Remove this unused "saveWalletResponse" local variable.(âÜÀ¦
+W	java:S125"<This block of commented-out lines of code should be removed.(ƒÁÙÃıÿÿÿÿ
+O
+java:S1854£"8Remove this useless assignment to local variable "gson".(şëŒ
+@
+java:S1481£")Remove this unused "gson" local variable.(şëŒ
+O
+java:S1854·"8Remove this useless assignment to local variable "gson".(şëŒ
+@
+java:S1481·")Remove this unused "gson" local variable.(şëŒ
+I
+java:S1172À"-Remove this unused method parameter "userId".(†çĞúÿÿÿÿ
+>
+java:S1125É"'Remove the unnecessary boolean literal.(éñº‡
+_
+java:S1854í"HRemove this useless assignment to local variable "createTrackingEntity".(Ë‘ ™
+>
+java:S1125æ"'Remove the unnecessary boolean literal.(éñº‡
+P
+java:S1481í"9Remove this unused "createTrackingEntity" local variable.(Ë‘ ™
+W	java:S125ò"<This block of commented-out lines of code should be removed.(ƒÁÙÃıÿÿÿÿ
+O
+java:S1854ø"8Remove this useless assignment to local variable "gson".(şëŒ
+@
+java:S1481ø")Remove this unused "gson" local variable.(şëŒ
+U
+java:S1155”">Use isEmpty() to check whether the collection is empty or not.(½ßÁ…
+O
+java:S1854¥"8Remove this useless assignment to local variable "gson".(şëŒ
+@
+java:S1481¥")Remove this unused "gson" local variable.(şëŒ
+C
+java:S1125·"'Remove the unnecessary boolean literal.(Îæ³şÿÿÿÿ
+U
+java:S1155¼">Use isEmpty() to check whether the collection is empty or not.(½ßÁ…
+d
+java:S1854ä"HRemove this useless assignment to local variable "saveTrackingResponse".(•Ø°¢üÿÿÿÿ
+k
+java:S1854Ü"TRemove this useless assignment to local variable "saveAccountsStatusResponseObject".(±ÃøÆ
+\
+java:S1481Ü"ERemove this unused "saveAccountsStatusResponseObject" local variable.(±ÃøÆ
+U
+java:S1481ä"9Remove this unused "saveTrackingResponse" local variable.(•Ø°¢üÿÿÿÿ
+d
+java:S1854ø"HRemove this useless assignment to local variable "saveTrackingResponse".(•Ø°¢üÿÿÿÿ
+k
+java:S1854ğ"TRemove this useless assignment to local variable "saveAccountsStatusResponseObject".(±ÃøÆ
+\
+java:S1481ğ"ERemove this unused "saveAccountsStatusResponseObject" local variable.(±ÃøÆ
+U
+java:S1481ø"9Remove this unused "saveTrackingResponse" local variable.(•Ø°¢üÿÿÿÿ
+C
+java:S1125‰"'Remove the unnecessary boolean literal.(Îæ³şÿÿÿÿ

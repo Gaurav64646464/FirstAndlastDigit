@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" type="JAX-WS">
+    <properties version="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarvis-generic-api/lib/woodstox-core-asl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

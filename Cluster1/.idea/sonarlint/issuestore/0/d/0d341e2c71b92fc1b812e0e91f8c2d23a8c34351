@@ -1,0 +1,15 @@
+
+n
+java:S1104"SMake version a static final constant or non-public and provide accessors if needed.(ñôışÿÿÿÿ
+o
+java:S1104"TMake function a static final constant or non-public and provide accessors if needed.(ìçï­şÿÿÿÿ
+o
+java:S1104"TMake clientId a static final constant or non-public and provide accessors if needed.(¾ÙÈıÿÿÿÿ
+n
+java:S1104"XMake clientSecret a static final constant or non-public and provide accessors if needed.(øáÜŞ
+i
+java:S1104"SMake reqTime a static final constant or non-public and provide accessors if needed.(ç–ˆ”
+o
+java:S1104"TMake reqMsgId a static final constant or non-public and provide accessors if needed.(ƒ¿Ê¦úÿÿÿÿ
+n
+java:S1104"SMake reserve a static final constant or non-public and provide accessors if needed.(Û·ïÑûÿÿÿÿ

@@ -1,0 +1,12 @@
+
+‹
+java:S1488/"vImmediately return this expression instead of assigning it to the temporary variable "checkIfWalletStatusEntityExist".(¿Œ‘1
+Œ
+java:S14884"vImmediately return this expression instead of assigning it to the temporary variable "checkIfWalletStatusEntityExist".(£ÎÇÌ
+Œ
+java:S1488:"vImmediately return this expression instead of assigning it to the temporary variable "checkIfWalletStatusEntityExist".(¸¥’Ü
+E
+java:S5411#"*Use the primitive boolean expression here.(Îæ³şÿÿÿÿ
+B
+java:S1125#"'Remove the unnecessary boolean literal.(Îæ³şÿÿÿÿ
+V	java:S125)"<This block of commented-out lines of code should be removed.(ä˜¸äøÿÿÿÿ

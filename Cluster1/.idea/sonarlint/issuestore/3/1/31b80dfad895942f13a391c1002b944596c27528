@@ -1,0 +1,81 @@
+
+a
+java:S1192g"FDefine a constant instead of duplicating this literal "Token" 7 times.(¯û†–ÿÿÿÿÿ
+j
+java:S1192F"ODefine a constant instead of duplicating this literal "transactionId" 37 times.(¦¬‹êùÿÿÿÿ
+h
+java:S1192i"MDefine a constant instead of duplicating this literal "session_key_" 9 times.(š»»Òıÿÿÿÿ
+c
+java:S1192}"MDefine a constant instead of duplicating this literal "apiExecStart" 7 times.(²ƒª 
+f	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇíÄ
+f	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”¶˜
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”¶˜
+g	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”¶˜
+g	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”¶˜
+g	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”¶˜
+g	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·á½ú
+g	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”¶˜
+g	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·á½ú
+g	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”¶˜
+g	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·á½ú
+w
+java:S2629F"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¦¬‹êùÿÿÿÿ
+w
+java:S2629Q"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¦¬‹êùÿÿÿÿ
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ğÆùÿÿÿÿ
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ğÆùÿÿÿÿ
+X
+java:S4973‘"<Strings and Boxed types should be compared using "equals()".(ø‹ÄÃüÿÿÿÿ
+X
+java:S4973‘"<Strings and Boxed types should be compared using "equals()".(ø‹ÄÃüÿÿÿÿ
+X
+java:S4973Â"<Strings and Boxed types should be compared using "equals()".(ğÆùÿÿÿÿ
+X
+java:S4973Â"<Strings and Boxed types should be compared using "equals()".(ğÆùÿÿÿÿ
+X
+java:S4973Ã"<Strings and Boxed types should be compared using "equals()".(ø‹ÄÃüÿÿÿÿ
+X
+java:S4973Ã"<Strings and Boxed types should be compared using "equals()".(ø‹ÄÃüÿÿÿÿ
+e
+java:S4488@"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(”¼Ç­şÿÿÿÿ
+\
+java:S3457F"AFormat specifiers should be used instead of string concatenation.(¦¬‹êùÿÿÿÿ
+K
+java:S1481J"5Remove this unused "responseBodyJson" local variable.(¾ùéë
+\
+java:S3457Q"AFormat specifiers should be used instead of string concatenation.(¦¬‹êùÿÿÿÿ
+e
+java:S4488X"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Æ»øÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(‡…úÿÿÿÿ
+f
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(§ Çéıÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(‡…úÿÿÿÿ
+f
+java:S4488ª"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ŞŸúøÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(‡…úÿÿÿÿ
+U
+java:S1854â"9Remove this useless assignment to local variable "token".(¯û†–ÿÿÿÿÿ
+f
+java:S4488Ó"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(áÆ¾¾øÿÿÿÿ
+F
+java:S1481â"*Remove this unused "token" local variable.(¯û†–ÿÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(‡…úÿÿÿÿ
+V
+java:S1854™":Remove this useless assignment to local variable "reject".(¬Â°ûÿÿÿÿ
+f
+java:S4488÷"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÿªéØùÿÿÿÿ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(‡…úÿÿÿÿ
+G
+java:S1481™"+Remove this unused "reject" local variable.(¬Â°ûÿÿÿÿ
+Q
+java:S1854Ë";Remove this useless assignment to local variable "approve".(×âÇ`
+f
+java:S4488©"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(åö†”ÿÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(‡…úÿÿÿÿ
+B
+java:S1481Ë",Remove this unused "approve" local variable.(×âÇ`
+a
+java:S4488Û"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(’ª¢¹
+W	java:S125í"<This block of commented-out lines of code should be removed.(‡…úÿÿÿÿ

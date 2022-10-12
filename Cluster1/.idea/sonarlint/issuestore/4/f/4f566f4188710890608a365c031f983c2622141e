@@ -1,0 +1,20 @@
+
+v
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "tracking".(³üÄ‰
+{
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "tracking".(Ù‚¯ıÿÿÿÿ
+
+java:S1488%"dImmediately return this expression instead of assigning it to the temporary variable "saveTracking".(óÇ¡€ûÿÿÿÿ
+
+java:S1488F"xImmediately return this expression instead of assigning it to the temporary variable "saveTrackingEntityResponseObject".(–¶Ì™
+{
+java:S1488T"eImmediately return this expression instead of assigning it to the temporary variable "dateFormatted".(ËŸ‹
+W
+java:S4973="<Strings and Boxed types should be compared using "equals()".(ĞäˆÒúÿÿÿÿ
+S
+java:S1854+"8Remove this useless assignment to local variable "date".(”Ç©šùÿÿÿÿ
+D
+java:S1481+")Remove this unused "date" local variable.(”Ç©šùÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(ÆÑ†Ş
+D
+java:S1128"/Remove this unused import 'java.sql.Timestamp'.(èò½+

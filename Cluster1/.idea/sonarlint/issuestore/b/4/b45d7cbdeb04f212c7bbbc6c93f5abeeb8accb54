@@ -1,0 +1,13 @@
+
+V	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(ù§‡
+j	java:S116"URename this field "MDCKeySets" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ï†ÿ
+7
+java:S1116"Remove this empty statement.(šƒ¦™ûÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(ïÜµÕüÿÿÿÿ
+2
+java:S1116"Remove this empty statement.(ø×Íô
+`
+java:S1128"ERemove this unused import 'xyz.mynt.myntlogs.constants.LogConstants'.(Ğ³ùğşÿÿÿÿ
+I
+java:S1128	".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ

@@ -1,0 +1,161 @@
+
+C
+java:S1068"-Remove this unused "channelId" private field.(Û”‰¹
+J
+java:S1068"/Remove this unused "inputPrefix" private field.(¯Åşÿÿÿÿ
+M
+java:S1068"2Remove this unused "inputFirstName" private field.(¼œ¹æøÿÿÿÿ
+I
+java:S1068"3Remove this unused "inputMiddleName" private field.(–×¡ç
+L
+java:S1068"1Remove this unused "inputLastName" private field.(Ê·£§ûÿÿÿÿ
+E
+java:S1068"/Remove this unused "inputSuffix" private field.(øÓÁÒ
+U
+java:S1068":Remove this unused "inputMothersMaidenName" private field.(·çÙÿÿÿÿÿ
+J
+java:S1068"4Remove this unused "inputDateOfBirth" private field.(îÍã¸
+K
+java:S1068"5Remove this unused "inputPlaceOfBirth" private field.(ÅÿÍ
+I
+java:S1068".Remove this unused "inputEmail" private field.(…ÖŒÍùÿÿÿÿ
+M
+java:S1068"7Remove this unused "inputOtherContactNo" private field.(Ò©éç
+M
+java:S1068"7Remove this unused "inputCurrAddrStreet" private field.(¶Ãş¿
+K
+java:S1068"5Remove this unused "inputCurrAddrTown" private field.(ä¯ÔÁ
+S
+java:S1068"=Remove this unused "inputCurrAddrCityProvince" private field.(ŠÀèÀ
+S
+java:S1068"8Remove this unused "inputCurrAddrCountry" private field.(–õƒ¹øÿÿÿÿ
+J
+java:S1068"4Remove this unused "inputCurrAddrZip" private field.(¬°È±
+M
+java:S1068"7Remove this unused "inputPermAddrStreet" private field.(ïï½Ö
+K
+java:S1068 "5Remove this unused "inputPermAddrTown" private field.(‚Œ¬º
+X
+java:S1068!"=Remove this unused "inputPermAddrCityProvince" private field.(üåÔÅøÿÿÿÿ
+N
+java:S1068""8Remove this unused "inputPermAddrCountry" private field.(Ë¥Äˆ
+I
+java:S1068#"4Remove this unused "inputPermAddrZip" private field.(—‡ÿ
+J
+java:S1068$"4Remove this unused "inputNationality" private field.(èõ‚
+E
+java:S1068%"/Remove this unused "inputCertNo" private field.(šàË
+G
+java:S1068&"1Remove this unused "inputCertType" private field.(Õëõò
+H
+java:S1068'"2Remove this unused "inputGovCertNo" private field.(àÀÁ—
+O
+java:S1068("4Remove this unused "inputGovCertType" private field.(Ï³—·ûÿÿÿÿ
+S
+java:S1068)"8Remove this unused "inputNoGovCertReason" private field.(¹¯äûÿÿÿÿ
+K
+java:S1068*"5Remove this unused "inputNatureOfWork" private field.(œš«£
+U
+java:S1068+":Remove this unused "inputOtherNatureOfWork" private field.(‰‹Õªşÿÿÿÿ
+L
+java:S1068,"6Remove this unused "inputSourceOfFunds" private field.(Ò…¢­
+_
+java:S1068-"DRemove this unused "inputNameofCompanyBusinessSchool" private field.(óÔİ¹øÿÿÿÿ
+F
+java:S1068."+Remove this unused "inputTC" private field.(Ìí¦éùÿÿÿÿ
+N
+java:S1068/"3Remove this unused "inputParentName" private field.(«ÿöıûÿÿÿÿ
+L
+java:S10680"6Remove this unused "inputParentAddress" private field.(ıÌŒ½
+U
+java:S10681":Remove this unused "inputParentNationality" private field.(şÏ„Éúÿÿÿÿ
+L
+java:S10682"6Remove this unused "inputParentConsent" private field.(½†•á
+K
+java:S10683"0Remove this unused "mobileNumber" private field.(¯ÏÚûÿÿÿÿ
+J
+java:S10684"/Remove this unused "targetLevel" private field.(°˜û›ıÿÿÿÿ
+U
+java:S10685":Remove this unused "inputCurrAddrCountryId" private field.(Ãõ¶äşÿÿÿÿ
+Q
+java:S10686";Remove this unused "inputCurrAddrProvinceId" private field.(Şå«Ä
+M
+java:S10687"7Remove this unused "inputCurrAddrCityId" private field.(ôúğ‚
+R
+java:S10688"7Remove this unused "inputCurrAddrTownId" private field.(¦½óÈıÿÿÿÿ
+U
+java:S10689":Remove this unused "inputCurrAddrZipCodeId" private field.(‰ş¿˜şÿÿÿÿ
+S
+java:S1068:"8Remove this unused "inputCurrAddrZipCode" private field.(½†®øÿÿÿÿ
+P
+java:S1068;":Remove this unused "inputPermAddrCountryId" private field.(ìÖ¯‰
+V
+java:S1068<";Remove this unused "inputPermAddrProvinceId" private field.(…½¹ÿÿÿÿÿ
+I
+java:S1068="3Remove this unused "inputPermCityId" private field.(®û£ª
+R
+java:S1068>"7Remove this unused "inputPermAddrTownId" private field.(ğ¸‡äşÿÿÿÿ
+P
+java:S1068?":Remove this unused "inputPermAddrZipCodeId" private field.(¬¶»
+S
+java:S1068@"8Remove this unused "inputPermAddrZipCode" private field.(³‡…ÿÿÿÿÿ
+T
+java:S1068A">Remove this unused "inputPlaceOfBirthCountryId" private field.(ªã¾É
+U
+java:S1068B"?Remove this unused "inputPlaceOfBirthProvinceId" private field.(Ø£í¦
+V
+java:S1068C";Remove this unused "inputPlaceOfBirthCityId" private field.(ŒØ‹²şÿÿÿÿ
+W
+java:S1068D"<Remove this unused "inputPlaceOfBirthCountry" private field.(š˜²øÿÿÿÿ
+X
+java:S1068E"=Remove this unused "inputPlaceOfBirthProvince" private field.(ÏË†îÿÿÿÿÿ
+O
+java:S1068F"9Remove this unused "inputPlaceOfBirthCity" private field.(ıäª§
+Q
+java:S1068G"6Remove this unused "inputNationalityId" private field.(¥ªıÿÿÿÿ
+R
+java:S1068H"7Remove this unused "inputNatureOfWorkId" private field.(Í„èÈÿÿÿÿÿ
+N
+java:S1068I"8Remove this unused "inputSourceOfFundsId" private field.(É„ò
+N
+java:S1068J"9Remove this unused "inputEmploymentTypeId" private field.(îŠ
+M
+java:S1068K"7Remove this unused "inputEmploymentType" private field.(ªì’İ
+\
+java:S1068L"ARemove this unused "inputEmploymentRankPositionId" private field.(¸¢÷‚ûÿÿÿÿ
+U
+java:S1068M"?Remove this unused "inputEmploymentRankPosition" private field.(âÊ¯Ã
+X
+java:S1068N"=Remove this unused "inputEmployerBusinessName" private field.(­†åĞüÿÿÿÿ
+f
+java:S1068O"KRemove this unused "inputExpectedMonthlyTransactionAmountId" private field.(÷š»Äúÿÿÿÿ
+_
+java:S1068P"IRemove this unused "inputExpectedMonthlyTransactionAmount" private field.(¢æ‚ß
+Z
+java:S1068Q"DRemove this unused "inputPurposeOfOpeningAnAccountId" private field.(­Ğˆ¼
+X
+java:S1068R"BRemove this unused "inputPurposeOfOpeningAnAccount" private field.(ÒĞÆ«
+K
+java:S1068S"5Remove this unused "inputAreYouAPepId" private field.(Ñëñ·
+\
+java:S1068T"ARemove this unused "inputAreYouTheBeneficialOwner" private field.(±ó„Äúÿÿÿÿ
+S
+java:S1068U"8Remove this unused "inputMaritalStatusId" private field.(çØÅáøÿÿÿÿ
+Q
+java:S1068V"6Remove this unused "inputMaritalStatus" private field.(úì¦ùÿÿÿÿ
+J
+java:S1068W"5Remove this unused "inputSalutationId" private field.(ãÜµ]
+N
+java:S1068X"3Remove this unused "inputSalutation" private field.(àƒãÿÿÿÿÿ
+O
+java:S1068Y"4Remove this unused "riskProfileScore" private field.(œá¬¤ûÿÿÿÿ
+E
+java:S1068Z"*Remove this unused "isKyc9" private field.(Ùäèüÿÿÿÿÿ
+M
+java:S1068["2Remove this unused "testingNewfile" private field.(äÍÚ·üÿÿÿÿ
+K
+java:S1068\"0Remove this unused "imageDetails" private field.(¨¨¥úÿÿÿÿ
+W
+java:S1068]"<Remove this unused "channelAdditionalDetails" private field.(àÅ­Öüÿÿÿÿ
+>
+java:S1068^"(Remove this unused "test" private field.(øŠæ

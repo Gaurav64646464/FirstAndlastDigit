@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jarvis-generic-api/Hibernate" uuid="73fbe0e1-a70a-4f45-a071-1d68ef7c850c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://jarrdsuat-aurora-cluster.cluster-c6fuwsz6k0ht.ap-southeast-1.rds.amazonaws.com:3306/jarvis_uat?allowPublicKeyRetrieval=true&amp;serverTimezone=UTC&amp;useSSL=false&amp;zeroDateTimeBehavior=convertToNull</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="jarvis-commons/Hibernate" uuid="782c7014-0442-4d43-95d9-4782d007b8c2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://jarrdsuat-aurora-cluster.cluster-c6fuwsz6k0ht.ap-southeast-1.rds.amazonaws.com:3306/jarvis_uat?allowPublicKeyRetrieval=true&amp;serverTimezone=UTC&amp;useSSL=false&amp;zeroDateTimeBehavior=convertToNull</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
