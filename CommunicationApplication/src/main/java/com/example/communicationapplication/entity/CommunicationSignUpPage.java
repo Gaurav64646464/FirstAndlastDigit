@@ -38,4 +38,6 @@ public class CommunicationSignUpPage implements Serializable {
     @Email
     private String email;
 
+    private String  name;
+
 }

@@ -20,4 +20,6 @@ public class LoginUser {
     private ResponseEntity<String> loginToUser(@RequestBody CommunicationSignUpPage com){
         return userService.getLoginByUser(com.getEmail(), com.getPhone(), com.getPassword());
     }
+
+
 }
